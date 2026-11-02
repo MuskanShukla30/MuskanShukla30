@@ -80,113 +80,43 @@ class MuskanShukla:
 <tr>
 <td colspan="2" align="center">
 
-**🤖 AI-Powered Projects**
+**💻 Featured GitHub Projects**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 SachAI — AI Fact Checker**
+**💼 Employee Payroll System**
 
-An intelligent AI-powered fact-checking and truth-verification assistant. *Sach* means **truth** in Hindi — built to fight misinformation with the power of AI.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Features:**
-- 🔍 AI-powered truth verification
-- 🌐 Real-time fact analysis
-- 📊 Credibility scoring
-- 💡 Source suggestions
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SachAi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/employee_payroll_system)
 
 </td>
 <td width="50%" valign="top">
 
-**🌌 Aether AI — Intelligent Chatbot**
+**📂 SD Muskan Shukla 0058**
 
-A sleek, futuristic AI chatbot interface powered by advanced language models. Aether brings next-generation conversational AI to life with an elegant UI.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Features:**
-- 🤖 Advanced AI conversations
-- ⚡ Real-time response streaming
-- 🎨 Modern futuristic UI
-- 📱 Responsive design
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Aether_AI)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**🌐 Web Applications**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SD_Muskan_Shukla_0058)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎵 Buzz Music Player**
+**🏦 Bank Management System**
 
-A full-featured music player web application with an intuitive UI and seamless audio playback. Stream, manage playlists, and enjoy your music — all in one elegant app.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-**Features:**
-- 🎧 Music streaming & playback
-- 📝 Playlist management
-- 🔍 Song search & discovery
-- 📱 Fully responsive design
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Music_Player)
-&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://music-player-vert-psi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Bank_management_system)
 
 </td>
 <td width="50%" valign="top">
 
-**💼 Personal Portfolio**
+**🧑‍💻 Full Stack Development Repository**
 
-A sleek and modern portfolio showcasing my work, skills, and achievements with an elegant, fully responsive design.
-
-**Tech Stack:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Highlights:**
-- ✨ Clean & modern aesthetic
-- 📱 Fully responsive layout
-- 🎯 Showcases all projects
-- ⚡ Fast & optimized
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30)
-&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-mu-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/FSD_REPO)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📫 Connect With Me
@@ -214,6 +144,8 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
+
 
 
 
