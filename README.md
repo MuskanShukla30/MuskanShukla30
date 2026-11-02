@@ -27,11 +27,11 @@ class MuskanShukla:
     def __init__(self):
         self.name        = "Muskan Shukla"
         self.username    = "MuskanShukla30"
-        self.education   = "SRMCEM'28 — CSE"
-        self.roles       = ["Python Developer", "Full Stack Developer"]
-        self.passion     = "Turning ideas into reality through clean, efficient code"
-        self.goal        = "Build impactful solutions that make a difference"
-        self.fun_fact    = "I debug with coffee and determination ☕"
+        self.education   = "B.Tech Information Technology — SRMCEM Lucknow (2024–Present)"
+        self.roles       = ["B.Tech Information Technology Student", "Aspiring Software Engineer"]
+        self.passion     = "Learning and building through hands-on projects"
+        self.goal        = "Become a Software Engineer"
+        self.fun_fact    = "Continuously learning and improving my development skills"
 
     def current_focus(self):
         return ["AI / ML integrations", "Full Stack Web Apps", "Open Source"]
@@ -214,5 +214,6 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
 
 
