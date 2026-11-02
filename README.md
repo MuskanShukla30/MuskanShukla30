@@ -89,12 +89,16 @@ class MuskanShukla:
 
 **💼 Employee Payroll System**
 
+A project repository for managing employee payroll.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/employee_payroll_system)
 
 </td>
 <td width="50%" valign="top">
 
 **📂 SD Muskan Shukla 0058**
+
+A software development project repository.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SD_Muskan_Shukla_0058)
 
@@ -105,12 +109,16 @@ class MuskanShukla:
 
 **🏦 Bank Management System**
 
+A project focused on bank management.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Bank_management_system)
 
 </td>
 <td width="50%" valign="top">
 
 **🧑‍💻 Full Stack Development Repository**
+
+A repository for full stack development work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/FSD_REPO)
 
@@ -144,6 +152,8 @@ class MuskanShukla:
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
+
 
 
 
