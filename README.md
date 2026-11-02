@@ -11,18 +11,19 @@
 
 ### 💫 About Me
 
-🎓 **Education**: B.Tech in Information Technology, Shri Ramswaroop Memorial College of Engineering and Management, Lucknow (2024–Present)
+```python
+class MuskanShukla:
+    def __init__(self):
+        self.name        = "Muskan Shukla"
+        self.username    = "MuskanShukla30"
+        self.location    = "Lucknow, Uttar Pradesh, India"
+        self.education   = "B.Tech Information Technology, SRMCEM Lucknow (2024–Present)"
+        self.goal        = "Become a Software Engineer"
+        self.skills      = ["Java", "C++", "Python", "JavaScript", "HTML", "CSS", "MySQL", "DBMS", "OOP", "DSA"]
 
-📍 **Location**: Lucknow, Uttar Pradesh, India
-
-💻 **Focus**: Building technical skills through coursework, projects, and hands-on development
-
-🎯 **Goal**: Become a **Software Engineer**
-
-🌱 **Currently**: Learning, building projects, and improving my development skills
-
-</div>
-
+    def current_focus(self):
+        return ["Learning", "Building projects", "Improving development skills"]
+```
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -149,3 +150,4 @@ An online quiz application project listed among my portfolio projects.
 <sub>⚡ Built with passion and lots of ☕</sub>
 
 </div>
+
