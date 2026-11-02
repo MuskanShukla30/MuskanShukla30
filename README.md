@@ -1,153 +1,218 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Muskan+Shukla+%F0%9F%91%8B;B.Tech+IT+Student+%7C+Aspiring+Software+Engineer" alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muskan%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuskanShukla30&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuskanShukla30?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1500&color=FF5D00&center=true&vCenter=true&width=900&lines=Hey+there!+I%27m+Muskan+Shukla+%F0%9F%91%8B;Python+Developer+%26+Full+Stack+Engineer;Building+impactful+solutions+that+matter;Turning+ideas+into+reality+through+clean+code" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuskanShukla30&label=Profile%20Views&color=FF5D00&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/MuskanShukla30?label=Followers&style=for-the-badge&color=FF5D00&labelColor=0D0101" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-FF5D00?style=for-the-badge&labelColor=0D0101" alt="Focus" />
+</div>
 
-### 💫 About Me
+<br/>
+
+---
+
+## 💫 About Me
 
 ```python
 class MuskanShukla:
     def __init__(self):
         self.name        = "Muskan Shukla"
         self.username    = "MuskanShukla30"
-        self.location    = "Lucknow, Uttar Pradesh, India"
-        self.education   = "B.Tech Information Technology, SRMCEM Lucknow (2024–Present)"
-        self.goal        = "Become a Software Engineer"
-        self.skills      = ["Java", "C++", "Python", "JavaScript", "HTML", "CSS", "MySQL", "DBMS", "OOP", "DSA"]
+        self.education   = "SRMCEM'28 — CSE"
+        self.roles       = ["Python Developer", "Full Stack Developer"]
+        self.passion     = "Turning ideas into reality through clean, efficient code"
+        self.goal        = "Build impactful solutions that make a difference"
+        self.fun_fact    = "I debug with coffee and determination ☕"
 
     def current_focus(self):
-        return ["Learning", "Building projects", "Improving development skills"]
+        return ["AI / ML integrations", "Full Stack Web Apps", "Open Source"]
 ```
+
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**👨‍💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Concepts
+**🧠 AI / ML & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**🗄️ Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-<h2 align="center">🎯 Featured Projects</h2>
-
-<div align="center">
+## 🎯 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-### 🏦 Bank Management System
-A project listed on my LinkedIn portfolio showcasing software development and problem-solving practice.
-
-**Project:** Bank Management System
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Interview Platform
-An AI-focused interview platform project listed among my portfolio projects.
-
-**Project:** AI Interview Platform
+**🤖 AI-Powered Projects**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
-A student management project listed among my portfolio projects.
+**🔍 SachAI — AI Fact Checker**
 
-**Project:** Student Management System
+An intelligent AI-powered fact-checking and truth-verification assistant. *Sach* means **truth** in Hindi — built to fight misinformation with the power of AI.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Features:**
+- 🔍 AI-powered truth verification
+- 🌐 Real-time fact analysis
+- 📊 Credibility scoring
+- 💡 Source suggestions
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SachAi)
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 Online Quiz Application
-An online quiz application project listed among my portfolio projects.
+**🌌 Aether AI — Intelligent Chatbot**
 
-**Project:** Online Quiz Application
+A sleek, futuristic AI chatbot interface powered by advanced language models. Aether brings next-generation conversational AI to life with an elegant UI.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Features:**
+- 🤖 Advanced AI conversations
+- ⚡ Real-time response streaming
+- 🎨 Modern futuristic UI
+- 📱 Responsive design
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Aether_AI)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🌐 Web Applications**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎵 Buzz Music Player**
+
+A full-featured music player web application with an intuitive UI and seamless audio playback. Stream, manage playlists, and enjoy your music — all in one elegant app.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Features:**
+- 🎧 Music streaming & playback
+- 📝 Playlist management
+- 🔍 Song search & discovery
+- 📱 Fully responsive design
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Music_Player)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://music-player-vert-psi.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Personal Portfolio**
+
+A sleek and modern portfolio showcasing my work, skills, and achievements with an elegant, fully responsive design.
+
+**Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Highlights:**
+- ✨ Clean & modern aesthetic
+- 📱 Fully responsive layout
+- 🎯 Showcases all projects
+- ⚡ Fast & optimized
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-mu-dun.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<p>More projects and details are available on my <a href="https://lnkd.in/dA29ksFv">portfolio website</a>.</p>
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-shukla-6193403b4/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5D00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-2-mu-dun.vercel.app/)
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskanShukla30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanShukla30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanShukla30&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuskanShukla30&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="900" />
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuskanShukla30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muskan-shukla-6193403b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MuskanShukla30" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Decorative footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
-### ⭐ Show some love by starring my repositories!
+**⭐ If you find my work helpful, consider starring my repositories!**
 
----
-
-<sub>⚡ Built with passion and lots of ☕</sub>
+<sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
 
