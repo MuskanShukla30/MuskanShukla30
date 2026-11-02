@@ -89,7 +89,7 @@ class MuskanShukla:
 
 **💼 Employee Payroll System**
 
-A project repository for managing employee payroll.
+A payroll management application focused on organizing employee compensation information and supporting payroll related tasks. It highlights a practical software solution for handling a core business process.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/employee_payroll_system)
 
@@ -98,7 +98,7 @@ A project repository for managing employee payroll.
 
 **📂 SD Muskan Shukla 0058**
 
-A software development project repository.
+A software development project created as part of a structured development assignment. Explore the repository to see the implementation, project organization, and technologies used.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SD_Muskan_Shukla_0058)
 
@@ -109,7 +109,7 @@ A software development project repository.
 
 **🏦 Bank Management System**
 
-A project focused on bank management.
+A bank management application centered on common banking workflows and information management. The repository contains the implementation and details of the project.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Bank_management_system)
 
@@ -118,7 +118,7 @@ A project focused on bank management.
 
 **🧑‍💻 Full Stack Development Repository**
 
-A repository for full stack development work.
+A full stack development repository bringing together application work across the frontend and backend. Visit the repository to explore its code, structure, and implementation details.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/FSD_REPO)
 
@@ -152,6 +152,7 @@ A repository for full stack development work.
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
 
 
 
