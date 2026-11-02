@@ -78,18 +78,19 @@ class MuskanShukla:
 
 <table>
 <tr>
-<td colspan="2" align="center">
-
-**💻 Featured GitHub Projects**
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **💼 Employee Payroll System**
 
-A payroll management application focused on organizing employee compensation information and supporting payroll related tasks. It highlights a practical software solution for handling a core business process.
+A payroll management project centered on employee compensation. Explore the repository to see how the project organizes payroll related information and handles its workflow.
+
+**Tech Stack:** Check the repository for implementation languages and tools.
+
+**Features:**
+- 👥 Employee payroll focused
+- 💰 Compensation information management
+- 🧾 Payroll workflow implementation
+- 🔗 Source code and project details on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/employee_payroll_system)
 
@@ -98,7 +99,15 @@ A payroll management application focused on organizing employee compensation inf
 
 **📂 SD Muskan Shukla 0058**
 
-A software development project created as part of a structured development assignment. Explore the repository to see the implementation, project organization, and technologies used.
+A software development project repository. Browse the source to explore the project structure, implementation, and development work included.
+
+**Tech Stack:** Check the repository for implementation languages and tools.
+
+**Features:**
+- 🧩 Software development project
+- 🗂️ Organized project source
+- 💻 Implementation available to explore
+- 🔗 Repository details on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/SD_Muskan_Shukla_0058)
 
@@ -109,7 +118,15 @@ A software development project created as part of a structured development assig
 
 **🏦 Bank Management System**
 
-A bank management application centered on common banking workflows and information management. The repository contains the implementation and details of the project.
+A bank management project focused on banking related information and operations. Visit the repository to explore its implementation and project contents.
+
+**Tech Stack:** Check the repository for implementation languages and tools.
+
+**Features:**
+- 🏦 Bank management focused
+- 📋 Banking information and operations
+- ⚙️ Project implementation in the repository
+- 🔗 Source code and details on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/Bank_management_system)
 
@@ -118,7 +135,15 @@ A bank management application centered on common banking workflows and informati
 
 **🧑‍💻 Full Stack Development Repository**
 
-A full stack development repository bringing together application work across the frontend and backend. Visit the repository to explore its code, structure, and implementation details.
+A repository for full stack development work. Explore the project to see its application code, organization, and development approach.
+
+**Tech Stack:** Check the repository for implementation languages and tools.
+
+**Features:**
+- 🌐 Full stack development focus
+- 🖥️ Application development work
+- 🧱 Project structure and source code
+- 🔗 Repository details on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskanShukla30/FSD_REPO)
 
@@ -152,6 +177,7 @@ A full stack development repository bringing together application work across th
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Muskan Shukla</sub>
 
 </div>
+
 
 
 
